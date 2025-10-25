@@ -2,10 +2,6 @@
   <h1 align="center"><b>Hello there, I'm Muhammad Fuaad 👋</b></h1>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/muhdfuaad" />
-</p>
-
 <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/TrailBlazer-Dev/TrailBlazer-GIFs/main/coding.gif" />
 
 ### I am a Full-Stack Developer & AI/ML Enthusiast
