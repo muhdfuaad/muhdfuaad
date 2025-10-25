@@ -48,8 +48,6 @@
 ## :chart_with_upwards_trend: &nbsp;GitHub Stats
 <p>
 <a href="https://github.com/muhdfuaad">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhdfuaad&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdfuaad&theme=radical&layout=compact" />
 </a> 
 </p>
 
