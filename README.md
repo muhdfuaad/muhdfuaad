@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on some projects using **Next.js + .NET + SQL**.
 - 🌱 I’m learning **Next.js deeply, DSA, AI/ML, and MLOps**.
 - 👯 I’m looking to collaborate with other developers and contribute to impactful projects.
-- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammed-fuaad-7a1b4825a/)
+- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammed-fuaad-70a6462b4/)
 
 <br>
 
@@ -53,13 +53,13 @@
 
 ## 🤝 &nbsp;Connect with Me 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammed-fuaad-7a1b4825a/">
+  <a href="https://www.linkedin.com/in/muhammed-fuaad-70a6462b4/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
-  <a href="https://www.instagram.com/muhdfuaad/">
+  <a href="https://www.instagram.com/fu.aa.d/">
       <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
   </a>
-  <a href="mailto:mfuaad23@gmail.com">
+  <a href="mailto:muhammedfuaadc@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
   </a>
 </p>
